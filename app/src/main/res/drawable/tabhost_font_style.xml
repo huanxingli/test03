@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <!--选中选项的情况下-->
+  <item android:state_enabled="true" android:state_checked="true" android:color="@color/activity_background" />
+  <!--默认情况下-->
+  <item android:color="@color/btn_gray"/>
+</selector>
